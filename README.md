@@ -12,3 +12,5 @@ https://nickschenck.github.io/runbuddy/
 
 ##Contribution
 Made with ❤️ by Nick Schenck
+
+### ©️2019 Run Buddy, Inc
